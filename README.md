@@ -1,2 +1,3 @@
 # hello-world
-first~~~just try
+first~~~just 
+i wana be a AI engineer!!!
